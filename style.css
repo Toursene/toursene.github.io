@@ -12,7 +12,6 @@ body {
 div{
     position: absolute;
     top: 50%;
-    left: 25%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
