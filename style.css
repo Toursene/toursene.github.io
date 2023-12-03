@@ -11,7 +11,7 @@ body {
 
 div{
     position: absolute;
-    top: 50%;
+    top: 75%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
